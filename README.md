@@ -115,7 +115,10 @@ Theres also a replacer for the skeleton enemies as well made by [AIRHOC](https:/
 
 #### Hero Skins
 
-These have been created by [NIUR](https://www.nexusmods.com/darkestdungeon/users/64319641?tab=user+files), [Xelsword](https://www.nexusmods.com/darkestdungeon/users/79892533?tab=user+files), and [Jefuty](https://www.nexusmods.com/darkestdungeon/users/2034155?tab=user+files): 
+These have been created by [NIUR](https://www.nexusmods.com/darkestdungeon/users/64319641?tab=user+files), [Xelsword](https://www.nexusmods.com/darkestdungeon/users/79892533?tab=user+files), and [Jefuty](https://www.nexusmods.com/darkestdungeon/users/2034155?tab=user+files)
+
+**IMPORTANT**
+Due to the way Xelswords skins work, you cannot use them and another one for the same hero at the same time, or else the skin will literally explode
 
 
 #### Lustiest Lair
