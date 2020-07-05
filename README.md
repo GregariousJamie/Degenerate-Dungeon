@@ -39,7 +39,7 @@ Mods to make the game easier, because good god you'll need em
 
 **Crimson Curse Buff** - Makes the crimson curse suck less
 
-**Anti-grind & Larger Roster** - Increeces your roster size and makes the chance of higher level heroes showing up higher
+**Anti-grind & Larger Roster** - Increaces your roster size and makes the chance of higher level heroes showing up higher
 
 **Better Boss Rewards** - Makes boss rewards suck less. Also comes with addons for the dlcs and Sunward Isles
 
