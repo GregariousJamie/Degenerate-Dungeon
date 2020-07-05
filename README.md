@@ -119,3 +119,14 @@ https://www.nexusmods.com/darkestdungeon/users/4913083?tab=user+files&BH=0
 Only thing of note is that the crystalline mod has a version with and without futa. Choose what you want, it only effects two enemies anyway.
 
 Theres also a replacer for the skeleton enemies as well. Personally i find them adorable, hence their inclusion. [ALSO ONE OF THE REPLACED SKELETONS IS SANS](https://cdn.discordapp.com/attachments/650401195411636224/729154961820090429/SPOILER_skeleton_captain.sprite.attack_mace.png)
+
+#### Hero Skins
+
+These have been created by NIUR (Linked above), Xelsword, and jefuty: 
+
+https://www.nexusmods.com/darkestdungeon/users/79892533?tab=user+files
+https://www.nexusmods.com/darkestdungeon/users/2034155?tab=user+files
+
+#### Lustiest Lair
+
+Ok so, this ones a bit of a doozie. Essentially its a massive overhaul to the entire game to make it far more lewd, by way of new bosses, changed ability descriptions, new lewd curios, etc. Only problem is that it probably conflicts a lot with the rest of the guide. Enable it if you want, personally it works fine.
