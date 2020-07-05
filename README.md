@@ -83,20 +83,15 @@ Up in the profile list, you will see an option for "Degenerate Dungeon - No Sham
 
 #### New Classes
 
-This list has all the profligates and Tifa Lockheart from this madlad here: 
+This list has all the profligates and Tifa Lockheart from [Muscarine](https://www.nexusmods.com/darkestdungeon/users/330348?tab=user+files)
 
-https://www.nexusmods.com/darkestdungeon/users/330348?tab=user+files. 
-
-Also a good majority of them have been reskinned to be far more cute by this fella here: 
-https://www.nexusmods.com/darkestdungeon/users/2034155?tab=user+files&BH=0.
+Also a good majority of them have been reskinned to be far more cute by [Jefuty](https://www.nexusmods.com/darkestdungeon/users/2034155?tab=user+files)
 
 At the bottom of the classes section you will notice that theres 3 versions of "Jef's MOD Hero Collection". The normal version features almost no lewdness, the lewd version does. The hardcore edition, however, adds some kinky bdsm stuff to a few of the heroes. If that aint your thing just use Lewd.
 
 #### Town People Skins
 
-In this section are reskins for all the town npcs, created by NIUR:
-
-https://www.nexusmods.com/darkestdungeon/users/64319641?tab=user+files
+In this section are reskins for all the town npcs, created by [NIUR](https://www.nexusmods.com/darkestdungeon/users/64319641?tab=user+files)
 
 All of them are epic and have been installed in two flavours: Normal and Lewd. Theres also usually a third version of all of these featuring **TENTACLE SEX** but i decided not to install em because they werent very immersive. You can do that yourself.
 
@@ -104,29 +99,27 @@ Theres also a Maid version of the stagecoach npc thats enabled by default, as we
 
 #### Minor skins
 
-Most of these were created by this insane person here:
-
-https://www.nexusmods.com/darkestdungeon/users/91003303?tab=user+files
+Most of these were created by [AlcorRadiance](https://www.nexusmods.com/darkestdungeon/users/91003303?tab=user+files)
 
 All of these can be reinstalled to your tastes rather easily, by right clicking them and clicking reinstall.
 
+There is also a replacer for the skeleton fella in the bottom right and left of your screen in dungeons, with a breast version and a christian and pure non breast version. Both can be customised as you wish
+
 #### Monster Skins
 
-Most of these were created by this epic gamer here:
-
-https://www.nexusmods.com/darkestdungeon/users/4913083?tab=user+files&BH=0
+Most of these were created by [StalinTheStalin](https://www.nexusmods.com/darkestdungeon/users/4913083?tab=user+files&BH=0)
 
 Only thing of note is that the crystalline mod has a version with and without futa. Choose what you want, it only effects two enemies anyway.
 
-Theres also a replacer for the skeleton enemies as well. Personally i find them adorable, hence their inclusion. [ALSO ONE OF THE REPLACED SKELETONS IS SANS](https://cdn.discordapp.com/attachments/650401195411636224/729154961820090429/SPOILER_skeleton_captain.sprite.attack_mace.png)
+Theres also a replacer for the skeleton enemies as well made by [AIRHOC](https://www.nexusmods.com/darkestdungeon/users/91445153?tab=user+files). Personally i find them adorable, hence their inclusion. [ALSO ONE OF THE REPLACED SKELETONS IS SANS](https://cdn.discordapp.com/attachments/650401195411636224/729154961820090429/SPOILER_skeleton_captain.sprite.attack_mace.png)
 
 #### Hero Skins
 
-These have been created by NIUR (Linked above), Xelsword, and jefuty: 
+These have been created by [NIUR](https://www.nexusmods.com/darkestdungeon/users/64319641?tab=user+files), [Xelsword](https://www.nexusmods.com/darkestdungeon/users/79892533?tab=user+files), and [Jefuty](https://www.nexusmods.com/darkestdungeon/users/2034155?tab=user+files): 
 
-https://www.nexusmods.com/darkestdungeon/users/79892533?tab=user+files
-https://www.nexusmods.com/darkestdungeon/users/2034155?tab=user+files
 
 #### Lustiest Lair
+
+https://www.nexusmods.com/darkestdungeon/mods/931
 
 Ok so, this ones a bit of a doozie. Essentially its a massive overhaul to the entire game to make it far more lewd, by way of new bosses, changed ability descriptions, new lewd curios, etc. Only problem is that it probably conflicts a lot with the rest of the guide. Enable it if you want, personally it works fine.
