@@ -3,6 +3,7 @@ Hey losers, welcome to this readme for my super cool and epic Wabbajack modlist 
 - [Preamble](#Preamble)
   - [The steam workshop](#The-Steam-Workshop)
     - [Golly, what are those mods even?](#gollygosh)
+      - [Ui Enhancement](#ui)
 # Preamble
 ## The Steam Workshop
 Because almost none of the cool gameplay enhancing mods are actually on the nexus, and are instead on the """fantastic""" steam workshop, i've made a super handy collection to compliment this modlist that you can access here:
@@ -12,7 +13,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2154264537
 Do note that you don't need all of these, unlike with skyrim and whatnot the game wont explode into a million peices if you choose not to have a few mods installed.
 
 ### Golly, what are those mods even?
-Ui Enhancement
+#### Ui Enhancement
 
 Jonathan's Xbox One Prompts - Replaces the ps4 buttons with the better and more christian xbox ones.
 
