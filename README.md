@@ -3,7 +3,7 @@ Hey losers, welcome to this readme for my super cool and epic Wabbajack modlist 
 - [Preamble](#Preamble)
   - [The steam workshop](#The-Steam-Workshop)
     - [Golly, what are those mods even?](#gollygosh)
-      - [Ui Enhancement](#ui)
+      - [Ui Enhancement](#ui-enhancement)
 # Preamble
 ## The Steam Workshop
 Because almost none of the cool gameplay enhancing mods are actually on the nexus, and are instead on the """fantastic""" steam workshop, i've made a super handy collection to compliment this modlist that you can access here:
