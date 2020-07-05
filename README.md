@@ -4,6 +4,8 @@ Hey losers, welcome to this readme for my super cool and epic Wabbajack modlist 
   - [The steam workshop](#The-Steam-Workshop)
     - [Golly, what are those mods even?](#gollygosh)
       - [Ui Enhancement](#ui-enhancement)
+      - [Gameplay Enhancements](#Gameplay-Enhancements)
+      - [The Nightmare](#the-nightmare)
 # Preamble
 ## The Steam Workshop
 Because almost none of the cool gameplay enhancing mods are actually on the nexus, and are instead on the """fantastic""" steam workshop, i've made a super handy collection to compliment this modlist that you can access here:
@@ -33,9 +35,7 @@ Inventory Stack - Lets items stack higher
 
 #### The Nightmare
 
-A big collection of mods focusing on endgame content. Its pretty cool.
-
-(Important note: All these mods require eachother)
+A big collection of mods focusing on endgame content. Its pretty cool. (Important note: All these mods require eachother)
 
 Better Nightmare Trinkets
 
