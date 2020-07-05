@@ -17,7 +17,7 @@ Do note that you don't need all of these, unlike with skyrim and whatnot the gam
 
 Jonathan's Xbox One Prompts - Replaces the ps4 buttons with the better and more christian xbox ones.
 
-Gameplay Enhancements
+#### Gameplay Enhancements
 
 Mods to make the game easier, because good god you'll need em
 
@@ -31,7 +31,7 @@ Faster Walking - Speeds up walking from room to room
 
 Inventory Stack - Lets items stack higher
 
-The Nightmare
+#### The Nightmare
 
 A big collection of mods focusing on endgame content. Its pretty cool.
 
