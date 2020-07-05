@@ -49,12 +49,15 @@ Mods to make the game easier, because good god you'll need em
 ### Skins
 
 **Monster girl Warrens part 1 & 2** - Exactly what it looks like.
+
 **Monster girl Brigands** - Yes.
+
 **plague doctor Cat ear Skin** - h.
 
 ### New Monsters
 
 **Koala's Creature Collection** Adds 17 new enemies. They look cool. Has a patch for the nightmare
+
 **Beyond Mortality** Adds a bunch of blue eldrich monstrocities to the ruins. Also comes with a cute guy whos good at killing them. Its really cool
 
 ### New Heroes
