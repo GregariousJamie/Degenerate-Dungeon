@@ -14,7 +14,9 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2154264537
 
 Do note that you don't need all of these, unlike with skyrim and whatnot the game wont explode into a million peices if you choose not to have a few mods installed.
 
-Click [here](https://imgur.com/a/E6eAyPX) for the in game load order for steam mods, for your save file. In order to access this menu, you must first create a save, then click the blue icon to the right of it. Make sure your order looks somewhat similar to this
+Click [here](https://imgur.com/a/E6eAyPX) for the in game load order for steam mods, for your save file. In order to access this menu, you must first create a save, then click the blue icon to the right of it.
+
+Note:
 
 
 # Golly, what are those mods even?
@@ -44,7 +46,7 @@ Mods to make the game easier, because good god you'll need em
 
 **Nomad Wagon Redone** - Makes the nomad wagon actually useful instead of a thing you look at once and never again.
 
-## New Lands
+## New Dungeons
 
 **The Sunward Isles** - A japanese themed new land for you to explore. Its really cool. Also has a compatibility patch for The nightmare, and a few addon mods that add more content.
 ## Skins
@@ -77,9 +79,7 @@ A big collection of mods focusing on endgame content. Its pretty cool. (Importan
 
 # The Actual Modlist
 
-~~Up in the profile list, you will see an option for "Degenerate Dungeon - No Shame edition" and "Degenerate Dungeon - At least pretend to be pure edition". The main difference between the two is that No shame edition features more exposed titty and coochie.~~
-
-Note: will come later, 
+Up in the profile list, you will see an option for "Degenerate Dungeon - No Shame edition" and "Degenerate Dungeon - At least pretend to be pure edition". The main difference between the two is that No shame edition features more exposed titty and coochie.
 
 ## New Classes
 
