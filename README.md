@@ -129,6 +129,8 @@ https://www.nexusmods.com/darkestdungeon/mods/931
 
 Ok so, this ones a bit of a doozie. Essentially its a massive overhaul to the entire game to make it far more lewd, by way of new bosses, changed ability descriptions, new lewd curios, etc. Only problem is that it probably conflicts a lot with the rest of the guide. Enable it if you want, personally it works fine.
 
+Warning: For your own sanity, only enable this mod *after* you complete the first tutorial mission, otherwise your two heroes will be murdered to death by dogs
+
 ## Save editor
 
 Say what you will, but i find losing heroes really lame. Hence why i've included a nifty little save editor. Below are instructions on how to use it.
