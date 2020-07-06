@@ -5,6 +5,8 @@ Hey losers, welcome to this readme for my super cool and epic Wabbajack modlist 
   - [The actual modlist](#The-Actual-Modlist)
     
 # Preamble
+# REMEMBER TO HAVE EVERY DLC INSTALLED AND ENABLED
+Yes, even the lame multiplayer butchers circus one. Otherwise the game **will** break
 # Alpha Notice
 This list as it is right now should be considered **VERY** wip for the time being. If you encounter any issues please ping me. I am extreemly lonely
 # The Steam Workshop
