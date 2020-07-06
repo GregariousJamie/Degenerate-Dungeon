@@ -59,8 +59,6 @@ Mods to make the game easier, because good god you'll need em
 
 **Monster girl Brigands** - Yes.
 
-**plague doctor Cat ear Skin** - h.
-
 ## New Monsters
 
 **Koala's Creature Collection** Adds 17 new enemies. They look cool. Has a patch for the nightmare
