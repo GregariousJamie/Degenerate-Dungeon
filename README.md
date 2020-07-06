@@ -26,8 +26,6 @@ Jonathan's Xbox One Prompts - Replaces the ps4 buttons with the better and more 
 
 Mods to make the game easier, because good god you'll need em
 
-**3 Trinkets** - Lets you have 3 trinkets per hero.
-
 **Better Trinkets** - Removes all negative effects from vanilla trinkets.
 
 **Faster Combat** - Speeds up attack animations
