@@ -2,10 +2,6 @@
 Hey losers, welcome to this readme for my super cool and epic Wabbajack modlist for darkest dungeon! Please be aware that this modlist has breasts and pee pee, and is not intended for users under the age of 100. With that being said, lets get started.
 - [Preamble](#Preamble)
   - [The steam workshop](#The-Steam-Workshop)
-    - [Golly, what are those mods even?](#gollygosh)
-      - [Ui Enhancement](#ui-enhancement)
-      - [Gameplay Enhancements](#Gameplay-Enhancements)
-      - [The Nightmare](#the-nightmare)
   - [The actual modlist](#The-Actual-Modlist)
     
 # Preamble
