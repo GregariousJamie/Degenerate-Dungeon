@@ -9,6 +9,8 @@ Hey losers, welcome to this readme for my super cool and epic Wabbajack modlist 
   - [The actual modlist](#The-Actual-Modlist)
     
 # Preamble
+# Alpha Notice
+This list as it is right now should be considered **VERY** wip for the time being. If you encounter any issues please ping me. I am extreemly lonely
 # The Steam Workshop
 Because almost none of the cool gameplay enhancing mods are actually on the nexus, and are instead on the """fantastic""" steam workshop, i've made a super handy collection to compliment this modlist that you can access here:
 
@@ -63,7 +65,7 @@ Mods to make the game easier, because good god you'll need em
 **Beyond Mortality** Adds a bunch of blue eldrich monstrocities to the ruins. Also comes with a cute guy whos good at killing them. Its really cool
 
 ## New Heroes
-none lol
+none at the moment
 
 ## Marvin Sheos mods
 None of these have showed up in my game yet so i have no idea if they're good. They probably are though. Just remember to get the shared assets mod as well
@@ -80,7 +82,9 @@ A big collection of mods focusing on endgame content. Its pretty cool. (Importan
 
 # The Actual Modlist
 
-Up in the profile list, you will see an option for "Degenerate Dungeon - No Shame edition" and "Degenerate Dungeon - At least pretend to be pure edition". The main difference between the two is that No shame edition features more exposed titty and coochie.
+~~Up in the profile list, you will see an option for "Degenerate Dungeon - No Shame edition" and "Degenerate Dungeon - At least pretend to be pure edition". The main difference between the two is that No shame edition features more exposed titty and coochie.~~
+
+Note: will come later, 
 
 ## New Classes
 
