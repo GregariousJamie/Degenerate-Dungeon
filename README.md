@@ -18,6 +18,9 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2154264537
 
 Do note that you don't need all of these, unlike with skyrim and whatnot the game wont explode into a million peices if you choose not to have a few mods installed.
 
+Click [here](https://imgur.com/a/E6eAyPX) for the in game load order for steam mods, for your save file. In order to access this menu, you must first create a save, then click the blue icon to the right of it. Make sure your order looks somewhat similar to this
+
+
 # Golly, what are those mods even?
 ## Ui Enhancement
 
@@ -145,3 +148,6 @@ Say what you will, but i find losing heroes really lame. Hence why i've included
 6. Save and exit
 
 Assuming you followed these instructions, you will have either lost your save, or have your heroes back.
+
+# UwU
+UwU
