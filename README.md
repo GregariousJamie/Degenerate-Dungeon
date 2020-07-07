@@ -20,7 +20,7 @@ Do note that you don't need all of these, unlike with skyrim and whatnot the gam
 
 Click [here](https://imgur.com/a/E6eAyPX) for the in game load order for steam mods, for your save file. In order to access this menu, you must first create a save, then click the blue icon to the right of it.
 
-Note:
+Note: Because the workshop implentation was very well developed for this game, the mods appear in the order you subscribed to them by default. So do yourself a favour and subscribe to the mods one by one
 
 
 # Golly, what are those mods even?
