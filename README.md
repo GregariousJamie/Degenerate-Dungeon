@@ -1,13 +1,15 @@
 # Degenerate-Dungeon
 Hey losers, welcome to this readme for my super cool and epic Wabbajack modlist for darkest dungeon! Please be aware that this modlist has breasts and pee pee, and is not intended for users under the age of 100. With that being said, lets get started.
-- [Preamble](#Preamble)
+- [IMPORTANT](#IMPORTANT)
   - [The steam workshop](#The-Steam-Workshop)
   - [The actual modlist](#The-Actual-Modlist)
     
-# Preamble
-# REMEMBER TO HAVE EVERY DLC INSTALLED AND ENABLED
+# IMPORTANT
+## REMEMBER TO HAVE EVERY DLC INSTALLED AND ENABLED
 Yes, even the lame multiplayer butchers circus one. Otherwise the game **will** break
-# Alpha Notice
+## ANTIVIRUS FALSE POSITIVES
+Ok so, for some reason this list is triggering some fellas antivirus programs. Just ignore, add exceptions, etc. I promice this list wasnt an elaborate scheme to steal foot pics
+## Alpha Notice
 This list as it is right now should be considered **VERY** wip for the time being. If you encounter any issues please ping me. I am extreemly lonely
 # The Steam Workshop
 Because almost none of the cool gameplay enhancing mods are actually on the nexus, and are instead on the """fantastic""" steam workshop, i've made a super handy collection to compliment this modlist that you can access here:
