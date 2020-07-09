@@ -66,7 +66,7 @@ Note: Probably going to phase out the steam mod collection actually, The juro mo
 
 ~~**The Sunward Isles** - A japanese themed new land for you to explore. Its really cool. Also has a compatibility patch for The nightmare, and a few addon mods that add more content.~~
 
-## Skins
+Skins
 
 **Monster girl Warrens part 1 & 2** - Exactly what it looks like.
 
