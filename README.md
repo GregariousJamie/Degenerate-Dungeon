@@ -89,8 +89,6 @@ Ok so, this ones a bit of a doozie. Essentially its a massive overhaul to the en
 
 Warning: For your own sanity, only enable this mod *after* you complete the first tutorial mission, otherwise your two heroes will be enslaved by dogs. What fun!
 
-Warning 2: Do not enable the UI mod and Lustiest Lair at the same time. It breaks things
-
 ## Save editor
 
 Say what you will, but i find losing heroes really lame. Hence why i've included a nifty little save editor. Below are instructions on how to use it.
