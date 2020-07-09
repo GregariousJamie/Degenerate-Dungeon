@@ -2,7 +2,8 @@
 Hey losers, welcome to this readme for my super cool and epic Wabbajack modlist for darkest dungeon! Please be aware that this modlist has breasts and pee pee, and is not intended for users under the age of 100. With that being said, lets get started.
 - [IMPORTANT](#IMPORTANT)
   - [The steam workshop](#The-Steam-Workshop)
-  - [The actual modlist](#The-Actual-Modlist)
+  - ~~[The actual modlist](#The-Actual-Modlist)
+  - [Juroest Dungeon](
     
 # IMPORTANT
 ## REMEMBER TO HAVE EVERY DLC INSTALLED AND ENABLED
@@ -12,86 +13,105 @@ Ok so, for some reason this list is triggering some fellas antivirus programs. J
 ## Alpha Notice
 This list as it is right now should be considered **VERY** wip for the time being. If you encounter any issues please ping me. I am extreemly lonely
 # The Steam Workshop
-Because almost none of the cool gameplay enhancing mods are actually on the nexus, and are instead on the """fantastic""" steam workshop, i've made a super handy collection to compliment this modlist that you can access here:
 
-https://steamcommunity.com/sharedfiles/filedetails/?id=2154264537
+Note: Probably going to phase out the steam mod collection actually, The juro modpack is a fantastic replacement. However, if you're planning on playing this as a nsfw modlist i highly reccomend you use the following mods
 
-Do note that you don't need all of these, unlike with skyrim and whatnot the game wont explode into a million peices if you choose not to have a few mods installed.
-
-Click [here](https://imgur.com/a/E6eAyPX) for the in game load order for steam mods, for your save file. In order to access this menu, you must first create a save, then click the blue icon to the right of it.
-
-Note: Because the workshop implentation was very well developed for this game, the mods appear in the order you subscribed to them by default. So do yourself a favour and subscribe to the mods one by one
+[Monster girl Warrens part 1](https://steamcommunity.com/sharedfiles/filedetails/?id=1885424457)
+[Monster girl Warrens part 2](https://steamcommunity.com/sharedfiles/filedetails/?id=1906706801)
+[Monster girl Brigand part 1](https://steamcommunity.com/sharedfiles/filedetails/?id=1927418127)
 
 
-# Golly, what are those mods even?
+~~Because almost none of the cool gameplay enhancing mods are actually on the nexus, and are instead on the """fantastic""" steam workshop, i've made a super handy collection to compliment this modlist that you can access here:~~
+
+~~https://steamcommunity.com/sharedfiles/filedetails/?id=2154264537
+
+~~Do note that you don't need all of these, unlike with skyrim and whatnot the game wont explode into a million peices if you choose not to have a few mods installed.
+
+~~Click [here](https://imgur.com/a/E6eAyPX) for the in game load order for steam mods, for your save file. In order to access this menu, you must first create a save, then click the blue icon to the right of it.
+
+~~Note: Because the workshop implentation was very well developed for this game, the mods appear in the order you subscribed to them by default. So do yourself a favour and subscribe to the mods one by one
+
+
+
+~~# Golly, what are those mods even?
 ## Ui Enhancement
 
-Jonathan's Xbox One Prompts - Replaces the ps4 buttons with the better and more christian xbox ones.
+~~Jonathan's Xbox One Prompts - Replaces the ps4 buttons with the better and more christian xbox ones.
 
-## Gameplay Enhancements
+~~## Gameplay Enhancements
 
-Mods to make the game easier, because good god you'll need em
+~~Mods to make the game easier, because good god you'll need em
 
-**Better Trinkets** - Removes all negative effects from vanilla trinkets.
+~~**Better Trinkets** - Removes all negative effects from vanilla trinkets.
 
-**Faster Combat** - Speeds up attack animations
+~~**Faster Combat** - Speeds up attack animations
 
-**Faster Walking** - Speeds up walking from room to room
+~~**Faster Walking** - Speeds up walking from room to room
 
-**Inventory Stack** - Lets items stack higher
+~~**Inventory Stack** - Lets items stack higher
 
-**Remove Dungeon Level Restriction** - Lets you bring your higher level heroes to low tier dungeons
+~~**Remove Dungeon Level Restriction** - Lets you bring your higher level heroes to low tier dungeons
 
-**Crimson Curse Buff** - Makes the crimson curse suck less
+**~~Crimson Curse Buff** - Makes the crimson curse suck less
 
-**Anti-grind & Larger Roster** - Increaces your roster size and makes the chance of higher level heroes showing up higher
+**~~Anti-grind & Larger Roster** - Increaces your roster size and makes the chance of higher level heroes showing up higher
 
-**Better Boss Rewards** - Makes boss rewards suck less. Also comes with addons for the dlcs and Sunward Isles
+**~~Better Boss Rewards** - Makes boss rewards suck less. Also comes with addons for the dlcs and Sunward Isles
 
-**Nomad Wagon Redone** - Makes the nomad wagon actually useful instead of a thing you look at once and never again.
+**~~Nomad Wagon Redone** - Makes the nomad wagon actually useful instead of a thing you look at once and never again.
 
-## New Dungeons
+~~## New Dungeons
 
-**The Sunward Isles** - A japanese themed new land for you to explore. Its really cool. Also has a compatibility patch for The nightmare, and a few addon mods that add more content.
+~~**The Sunward Isles** - A japanese themed new land for you to explore. Its really cool. Also has a compatibility patch for The nightmare, and a few addon mods that add more content.
+
 ## Skins
 
 **Monster girl Warrens part 1 & 2** - Exactly what it looks like.
 
 **Monster girl Brigands** - Yes.
 
-## New Monsters
+~~## New Monsters
 
-**Koala's Creature Collection** Adds 17 new enemies. They look cool. Has a patch for the nightmare
+~~**Koala's Creature Collection** Adds 17 new enemies. They look cool. Has a patch for the nightmare
 
-**Beyond Mortality** Adds a bunch of blue eldrich monstrocities to the ruins. Also comes with a cute guy whos good at killing them. Its really cool
+~~**Beyond Mortality** Adds a bunch of blue eldrich monstrocities to the ruins. Also comes with a cute guy whos good at killing them. Its really cool
 
-## New Heroes
-none at the moment
-
-## Marvin Sheos mods
+~~## Marvin Sheos mods
 None of these have showed up in my game yet so i have no idea if they're good. They probably are though. Just remember to get the shared assets mod as well
 
-## The Nightmare
+~~## The Nightmare
 
-A big collection of mods focusing on endgame content. Its pretty cool. (Important note: All these mods require eachother)
+~~A big collection of mods focusing on endgame content. Its pretty cool. (Important note: All these mods require eachother)
 
-**The Nightmare** - The main part. Has a patch for the crimson court if you have it installed
+~~**The Nightmare** - The main part. Has a patch for the crimson court if you have it installed
 
-**Better Nightmare Trinkets** Removes all negative effects from the trinkets introduced with this mod
+~~**Better Nightmare Trinkets** Removes all negative effects from the trinkets introduced with this mod
 
-**The Arena** - You know that butchers circus multiplayer thing they added? This is that but singleplayer
+~~**The Arena** - You know that butchers circus multiplayer thing they added? This is that but singleplayer
+
+Note: Due to the fact i'm ditching the steam workshop almost entirely (exept for those 3 skins), ignore the majority of this. 
 
 # The Actual Modlist
 
-Up in the profile list, you will see an option for "Degenerate Dungeon - No Shame edition" and "Degenerate Dungeon - At least pretend to be pure edition". The main difference between the two is that No shame edition features more exposed titty and coochie.
+Up in the profile list, you will see an option for 3 versions of the game, which are: Less Booby, More Booby, and Just Booby.
+
+## Less booby
+Most sfw version of the modlist, no lustiest lair, sfw versions of all mods and uses Juroest Dungeon
+
+## More booby
+Reccomended version of the modlist, uses Juroest dungeon and has the most NSFW content.
+
+## Just booby
+Same as more, but instead of juro it uses lustiest lair. No you can't use both it will make the game explode
 
 ## New Classes
+Check the Juroest Dungeon mod [here](https://www.nexusmods.com/darkestdungeon/mods/1021?tab=description) for information about the classes it adds.
 
-This list has all the profligates and Tifa Lockheart from [Muscarine](https://www.nexusmods.com/darkestdungeon/users/330348?tab=user+files)
+Other than that, this list has all the profligates and Tifa Lockheart from [Muscarine](https://www.nexusmods.com/darkestdungeon/users/330348?tab=user+files)
 
 Also a good majority of them have been reskinned to be far more cute by [Jefuty](https://www.nexusmods.com/darkestdungeon/users/2034155?tab=user+files)
 
-Underneath the Profligates, you will notice that theres 3 versions of "Jef's MOD Hero Collection". The normal version features almost no lewdness, the lewd version does. The hardcore edition, however, adds some kinky bdsm stuff to a few of the heroes. If that aint your thing just use Lewd.
+Underneath the Profligates, you will notice that theres 3 versions of "Jef's MOD Hero Collection". The normal version features almost no lewdness for the profligates, and just makes them cute, the lewd version does. The hardcore edition, however, adds some kinky bdsm stuff to a few of the heroes. If that aint your thing just use Lewd.
 
 Finally, i've added 2B. My reasons are obvious.
 
