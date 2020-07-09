@@ -104,7 +104,7 @@ Assuming you followed these instructions, you will have either lost your save, o
 # Actually playing the game
 The instructions for this will be different depending on which profile you're using, but in short;
 
-**Less Booby** - Enable the juwo mods except for the skin mod, and have 0 first, 1 second, etc.
+**Less Booby** - Enable the juwo mods and have 0 first, 1 second, etc.
 
 **More Booby** - Same as above
 
