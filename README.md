@@ -2,8 +2,9 @@
 Hey losers, welcome to this readme for my super cool and epic Wabbajack modlist for darkest dungeon! Please be aware that this modlist has breasts and pee pee, and is not intended for users under the age of 100. With that being said, lets get started.
 - [IMPORTANT](#IMPORTANT)
   - ~~[The steam workshop](#The-Steam-Workshop)~~
+  - [Juroest Dungeon](#Juroest-Dungeon)
   - [The actual modlist](#The-Actual-Modlist)
-  - [Juroest Dungeon](
+
     
 # IMPORTANT
 ## REMEMBER TO HAVE EVERY DLC INSTALLED AND ENABLED
@@ -50,13 +51,13 @@ Note: Probably going to phase out the steam mod collection actually, The juro mo
 
 ~~**Inventory Stack** - Lets items stack higher~~
 
-~~**Remove Dungeon Level Restriction** - Lets you bring your higher level heroes to low tier dungeons~~
+~~**Remove Dungeon Level Restriction**~~ ~~~~- Lets you bring your higher level heroes to low tier dungeons~~
 
-**~~Crimson Curse Buff** - Makes the crimson curse suck less~~
+**~~Crimson Curse Buff**~~~~ ~~~~- Makes the crimson curse suck less~~
 
-**~~Anti-grind & Larger Roster** - Increaces your roster size and makes the chance of higher level heroes showing up higher~~
+**~~Anti-grind & Larger Roster**~~ ~~- Increaces your roster size and makes the chance of higher level heroes showing up higher~~
 
-**~~Better Boss Rewards** - Makes boss rewards suck less. Also comes with addons for the dlcs and Sunward Isles~~
+**~~Better Boss Rewards**~~ ~~- Makes boss rewards suck less. Also comes with addons for the dlcs and Sunward Isles~~
 
 **~~Nomad Wagon Redone** - Makes the nomad wagon actually useful instead of a thing you look at once and never again.~~
 
@@ -90,6 +91,9 @@ None of these have showed up in my game yet so i have no idea if they're good. T
 ~~**The Arena** - You know that butchers circus multiplayer thing they added? This is that but singleplayer~~
 
 Note: Due to the fact i'm ditching the steam workshop almost entirely (exept for those 3 skins), ignore the majority of this. 
+
+# Juroest Dungeon
+150 steam mods bundled together and patched to work with eachother. It makes the game so much better. Read more about it [here.](https://www.nexusmods.com/darkestdungeon/mods/1021?tab=description)
 
 # The Actual Modlist
 
