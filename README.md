@@ -4,6 +4,7 @@ Hey losers, welcome to this readme for my super cool and epic Wabbajack modlist 
   - ~~[The steam workshop](#The-Steam-Workshop)~~
   - [Juroest Dungeon](#Juroest-Dungeon)
   - [The actual modlist](#The-Actual-Modlist)
+  - [Actually playing the game](#Actually-playing-the-game)
 
     
 # IMPORTANT
@@ -172,6 +173,16 @@ Say what you will, but i find losing heroes really lame. Hence why i've included
 6. Save and exit
 
 Assuming you followed these instructions, you will have either lost your save, or have your heroes back.
+
+# Actually playing the game
+The instructions for this will be different depending on which profile you're using, but in short;
+
+**Less Booby** - Install the juro mods, except for the skin mod
+
+**More Booby** - Same as above
+
+**Just Booby** - Just start playing
+
 
 # UwU
 UwU
