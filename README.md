@@ -34,7 +34,7 @@ Note: Probably going to phase out the steam mod collection actually, The juro mo
 
 
 ~~# Golly, what are those mods even?~~
-## Ui Enhancement~~
+~~## Ui Enhancement~~
 
 ~~Jonathan's Xbox One Prompts - Replaces the ps4 buttons with the better and more christian xbox ones.~~
 
