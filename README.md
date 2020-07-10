@@ -119,7 +119,7 @@ Ok so uhhhh, im just gonna list some things that seem to fix crashing when tryin
 
 Switching profiles in the top left
 
-Making double tripple sure that those juro mods (plus the brigand replacers) are the only things enabled
+Making double triple sure that those juro mods (plus the brigand/warren replacers) are the only things enabled
 
 Listening to the song mentioned above
 
