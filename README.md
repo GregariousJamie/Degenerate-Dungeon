@@ -5,6 +5,7 @@ Hey losers, welcome to this readme for my super cool and epic Wabbajack modlist 
   - [Juroest Dungeon](#Juroest-Dungeon)
   - [The actual modlist](#The-Actual-Modlist)
   - [Actually playing the game](#Actually-playing-the-game)
+  - [It crashed help](#It-Crashed-Help)
 
     
 # IMPORTANT
@@ -113,6 +114,13 @@ The instructions for this will be different depending on which profile you're us
 
 **Just Booby** - Just start playing, you degenerate.
 
+# It crashed help
+Ok so uhhhh, im just gonna list some things that seem to fix crashing when trying to start a new game. More will be added when people crash and complain to me
+
+Switching profiles in the top left
+Making double tripple sure that those juro mods (plus the brigand replacers) are the only things enabled
+Listening to the song mentioned above
+Complimenting me on discord about how awesome i am
 
 # UwU
 UwU
