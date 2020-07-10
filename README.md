@@ -107,7 +107,7 @@ Assuming you followed these instructions, you will have either lost your save, o
 # Actually playing the game
 The instructions for this will be different depending on which profile you're using, but in short;
 
-**Less Booby** - Enable the juwo mods and have 0 first, 1 second, etc.
+**Less Booby** - Start a new save, enable all the dlc, then click the blue cirlce button thing on the right to oepn the mods menu. Enable the juro mods and have 0 first, 1 second, etc.
 
 **More Booby** - Same as above
 
