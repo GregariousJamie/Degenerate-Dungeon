@@ -38,6 +38,9 @@ Reccomended version of the modlist, uses Juroest dungeon and has the most NSFW c
 ## Just booby
 Same as more, but instead of juro it uses lustiest lair. No you can't use both it will make the game explode
 
+## New Trinkets
+Cultist Simulator makes me horny, so i added a mod based on it. If you don't like it you can disable it easily 
+
 ## New Classes
 Check the Juroest Dungeon mod [here](https://www.nexusmods.com/darkestdungeon/mods/1021?tab=description) for information about the classes it adds.
 
