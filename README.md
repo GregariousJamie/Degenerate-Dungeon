@@ -118,9 +118,13 @@ The instructions for this will be different depending on which profile you're us
 Ok so uhhhh, im just gonna list some things that seem to fix crashing when trying to start a new game. More will be added when people crash and complain to me
 
 Switching profiles in the top left
+
 Making double tripple sure that those juro mods (plus the brigand replacers) are the only things enabled
+
 Listening to the song mentioned above
+
 Complimenting me on discord about how awesome i am
+
 
 # UwU
 UwU
