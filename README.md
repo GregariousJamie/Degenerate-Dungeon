@@ -114,7 +114,7 @@ The instructions for this will be different depending on which profile you're us
 
 **Less Booby** - Start a new save, enable all the dlc, then click the blue cirlce button thing on the right to oepn the mods menu. Enable the juro mods and have 0 first, 1 second, etc. [It should look like this](https://cdn.discordapp.com/attachments/534476944939548672/731101261889536030/unknown.png)
 
-**More Booby** - Same as above, but you have to [listen to this song](https://youtu.be/-oIWGlbl92k) before it will work
+**More Booby** - Same as above, but you have to [listen to this song]https://www.youtube.com/watch?v=ucsa996oXVM) before it will work
 
 **Just Booby** - Just start playing, you degenerate.
 
