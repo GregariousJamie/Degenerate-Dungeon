@@ -3,6 +3,7 @@ Hey losers, welcome to this readme for my super cool and epic Wabbajack modlist 
 - [IMPORTANT](#IMPORTANT)
   - ~~[The steam workshop](#The-Steam-Workshop)~~
   - [Juroest Dungeon](#Juroest-Dungeon)
+  - [Making your heroes even more OP](#Making-your-heroes-even-more-OP)
   - [The actual modlist](#The-Actual-Modlist)
   - [Actually playing the game](#Actually-playing-the-game)
   - [It crashed help](#It-Crashed-Help)
@@ -25,6 +26,9 @@ Note: Probably going to phase out the steam mod collection actually, The juro mo
 
 # Juroest Dungeon
 150 steam mods bundled together and patched to work with eachother. It makes the game so much better. Read more about it [here.](https://www.nexusmods.com/darkestdungeon/mods/1021?tab=description)
+
+# Making your heroes even more OP
+The juroest dungeon mod makes it so that your heroes skills are buffed by quite a bit, but because i'm a chad i edited every single hero to be able to use all 7 skills at once. All you need to do is actually buy them from the ability shop and bam, they work. If for some reason you don't like this feature, just disable the mod that does it
 
 # The Actual Modlist
 
