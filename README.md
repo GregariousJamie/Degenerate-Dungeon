@@ -10,8 +10,8 @@ Hey losers, welcome to this readme for my super cool and epic Wabbajack modlist 
 
     
 # IMPORTANT
-## REMEMBER TO HAVE EVERY DLC INSTALLED AND ENABLED
-Yes, even the lame multiplayer butchers circus one. Otherwise the game **will** break
+## REMEMBER TO HAVE EVERY DLC OTHER THAN BUTCHERS CIRCUS INSTALLED AND ENABLED
+If you don't the list just straight up won't work. Also, having butchers circus and juro enabled will cause it to explode, so don't do that
 ## ANTIVIRUS FALSE POSITIVES
 Ok so, for some reason this list is triggering some fellas antivirus programs. Just ignore, add exceptions, etc. I promice this list wasnt an elaborate scheme to steal foot pics
 ## Alpha Notice
