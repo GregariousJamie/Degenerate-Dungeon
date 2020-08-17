@@ -127,6 +127,8 @@ Switching profiles in the top left
 
 Making double triple sure that those juro mods (plus the brigand/warren replacers) are the only things enabled
 
+Making sure you actually have the musketeer dlc "bought" (its free) on steam and installed
+
 Listening to the song mentioned above
 
 Complimenting me on discord about how awesome i am
