@@ -12,6 +12,8 @@ Hey losers, welcome to this readme for my super cool and epic Wabbajack modlist 
 # IMPORTANT
 ## REMEMBER TO HAVE EVERY DLC OTHER THAN BUTCHERS CIRCUS INSTALLED AND ENABLED
 If you don't the list just straight up won't work. Also, having butchers circus and juro enabled will cause it to explode, so don't do that
+## SHOVE THE CONTENTS OF 'GAME FOLDER FILES' INTO YOUR DARKEST DUNGEON DIRECTORY
+You know, like you'd do for skyrim and fallout
 ## ANTIVIRUS FALSE POSITIVES
 Ok so, for some reason this list is triggering some fellas antivirus programs. Just ignore, add exceptions, etc. I promice this list wasnt an elaborate scheme to steal foot pics
 ## Alpha Notice
