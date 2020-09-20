@@ -114,7 +114,7 @@ Assuming you followed these instructions, you will have either lost your save, o
 # Actually playing the game
 The instructions for this will be different depending on which profile you're using, but in short;
 
-Note: For the love of all that is holy do not disable the dlc through steam. Don't. If you do i can and will travel to your house to give you a stern lecture about why you smell bad
+Note: For the love of all that is holy do not disable the dlc through steam. Don't. If you do i can and will beat your ass. [If you would like a demonstration of what this will look like observe this informative video](https://cdn.discordapp.com/attachments/650401195411636224/757185839527624744/image0.gif)
 
 **Less Booby** - Start a new save, enable all the dlc, then click the blue cirlce button thing on the right to oepn the mods menu. Enable the juro mods and have 0 first, 1 second, etc. [It should look like this](https://cdn.discordapp.com/attachments/534476944939548672/731101261889536030/unknown.png)
 
