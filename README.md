@@ -10,7 +10,7 @@ Hey losers, welcome to this readme for my super cool and epic Wabbajack modlist 
 
     
 # IMPORTANT
-## REMEMBER TO HAVE EVERY DLC OTHER THAN BUTCHERS CIRCUS INSTALLED AND ENABLED
+## REMEMBER TO HAVE EVERY DLC INSTALLED, BUT ENABLE EVERY DLC OTHER THAN BUTCHERS CIRCUS IF YOURE USING THE MORE BOOBY PROFILE
 If you don't the list just straight up won't work. Also, having butchers circus and juro enabled will cause it to explode, so don't do that
 
 Note: For the love of all that is holy do not disable the dlc through steam. Don't. If you do i can and will beat your ass. [If you would like a demonstration of what this will look like observe this informative video](https://cdn.discordapp.com/attachments/650401195411636224/757185839527624744/image0.gif)
