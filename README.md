@@ -36,16 +36,13 @@ The juroest dungeon mod makes it so that your heroes skills are buffed by quite 
 
 # The Actual Modlist
 
-Up in the profile list, you will see an option for 3 versions of the game, which are: Less Booby, More Booby, and Just Booby.
+Up in the profile list, you will see an option for 3 versions of the game, which are Juro and Lustiest Lair
 
-## Less booby
-Most sfw version of the modlist, no lustiest lair, sfw versions of all mods and uses Juroest Dungeon
-
-## More booby
-Reccomended version of the modlist, uses Juroest dungeon and has the most NSFW content.
+## Juro
+Reccomended version of the modlist, uses Juroest dungeon and has an assload of NSFW content.
 
 ## Just booby
-Same as more, but instead of juro it uses lustiest lair. No you can't use both it will make the game explode
+Same as above, but instead of juro it uses lustiest lair. No you can't use both it will make the game explode
 
 ## New Classes
 Check the Juroest Dungeon mod [here](https://www.nexusmods.com/darkestdungeon/mods/1021?tab=description) for information about the classes it adds.
@@ -113,11 +110,9 @@ Assuming you followed these instructions, you will have either lost your save, o
 # Actually playing the game
 The instructions for this will be different depending on which profile you're using, but in short;
 
-**Less Booby** - Start a new save, enable all the dlc, then click the blue cirlce button thing on the right to oepn the mods menu. Enable the juro mods and have 0 first, 1 second, etc. [It should look like this](https://cdn.discordapp.com/attachments/534476944939548672/731101261889536030/unknown.png)
+**Juro** - Start a new save, enable all the dlc, then click the blue cirlce button thing on the right to oepn the mods menu. Enable the juro mods and have 0 first, 1 second, etc. [It should look like this](https://cdn.discordapp.com/attachments/534476944939548672/731101261889536030/unknown.png).It is also recomented that you [listen to this song](https://www.youtube.com/watch?v=ucsa996oXVM) to maximise the chance of it working
 
-**More Booby** - Same as above, but you have to [listen to this song](https://www.youtube.com/watch?v=ucsa996oXVM) before it will work
-
-**Just Booby** - Just start playing, you degenerate.
+**Lustiest Lair** - Just start playing, you degenerate.
 
 # It crashed help
 Ok so uhhhh, im just gonna list some things that seem to fix crashing when trying to start a new game. More will be added when people crash and complain to me
