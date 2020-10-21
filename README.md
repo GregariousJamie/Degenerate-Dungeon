@@ -41,7 +41,7 @@ Up in the profile list, you will see an option for 3 versions of the game, which
 ## Juro
 Reccomended version of the modlist, uses Juroest dungeon and has an assload of NSFW content.
 
-## Just booby
+## Lustiest Lair
 Same as above, but instead of juro it uses lustiest lair. No you can't use both it will make the game explode
 
 ## New Classes
