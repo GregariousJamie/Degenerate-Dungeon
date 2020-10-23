@@ -91,9 +91,7 @@ Due to the way Xelswords skins work, you cannot use them and another one for the
 
 https://www.nexusmods.com/darkestdungeon/mods/931
 
-Ok so, this ones a bit of a doozie. Essentially its a massive overhaul to the entire game to make it far more lewd, by way of new bosses, changed ability descriptions, new lewd curios, etc. Only problem is that it probably conflicts a lot with the rest of the list. Enable it if you want, personally it works fine*.
-
-Warning: For your own sanity, only enable this mod *after* you complete the first tutorial mission, otherwise your two heroes will be enslaved by dogs. What fun!
+Ok so, this ones a bit of a doozie. Essentially its a massive overhaul to the entire game to make it far more lewd, by way of new bosses, changed ability descriptions, new lewd curios, etc. Only problem is that kinda conflicts with some of the list (AND ESPECIALLY WITH JURO). That being said, the profile set up for it is pretty damn good
 
 ## Save editor
 
