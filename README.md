@@ -1,7 +1,7 @@
 # Degenerate-Dungeon
 Hey losers, welcome to this readme for my super cool and epic Wabbajack modlist for darkest dungeon! Please be aware that this modlist has breasts and pee pee, and is not intended for users under the age of 100. With that being said, lets get started.
-- [IMPORTANT](#IMPORTANT)
-  - ~~[The steam workshop](#The-Steam-Workshop)~~
+- [INSTALLATION INSTRUCTIONS](#INSTALLATION INSTRUCTIONS)
+  - [The steam workshop](#The-Steam-Workshop)
   - [Juroest Dungeon](#Juroest-Dungeon)
   - [Making your heroes even more OP](#Making-your-heroes-even-more-OP)
   - [The actual modlist](#The-Actual-Modlist)
@@ -9,24 +9,16 @@ Hey losers, welcome to this readme for my super cool and epic Wabbajack modlist 
   - [It crashed help](#It-Crashed-Help)
 
     
-# IMPORTANT
-## REMEMBER TO HAVE EVERY DLC INSTALLED, BUT ENABLE EVERY DLC OTHER THAN BUTCHERS CIRCUS IF YOURE USING THE MORE BOOBY PROFILE
+# INSTALLATION INSTRUCTIONS
+## REMEMBER TO HAVE EVERY DLC INSTALLED, BUT ENABLE EVERY DLC OTHER THAN BUTCHERS CIRCUS IF YOURE USING THE JURO PROFILE
 If you don't the list just straight up won't work. Also, having butchers circus and juro enabled will cause it to explode, so don't do that
 
 Note: For the love of all that is holy do not disable the dlc through steam. Don't. If you do i can and will beat your ass. [If you would like a demonstration of what this will look like observe this informative video](https://cdn.discordapp.com/attachments/650401195411636224/757185839527624744/image0.gif)
-## SHOVE THE CONTENTS OF 'GAME FOLDER FILES' INTO YOUR DARKEST DUNGEON DIRECTORY
+# SHOVE THE CONTENTS OF 'GAME FOLDER FILES' INTO YOUR DARKEST DUNGEON DIRECTORY
 You know, like you'd do for skyrim and fallout
-## ANTIVIRUS FALSE POSITIVES
-Ok so, for some reason this list is triggering some fellas antivirus programs. Just ignore, add exceptions, etc. I promice this list wasnt an elaborate scheme to steal foot pics
-## Alpha Notice
-This list as it is right now should be considered **VERY** wip for the time being. If you encounter any issues please ping me. I am extreemly lonely
+
 # The Steam Workshop
-
-Note: Probably going to phase out the steam mod collection actually, The juro modpack is a fantastic replacement. However, if you're planning on playing this as a nsfw modlist i highly reccomend you use the following mods
-
-[Monster girl Warrens part 1](https://steamcommunity.com/sharedfiles/filedetails/?id=1885424457)
-[Monster girl Warrens part 2](https://steamcommunity.com/sharedfiles/filedetails/?id=1906706801)
-[Monster girl Brigand part 1](https://steamcommunity.com/sharedfiles/filedetails/?id=1927418127)
+Unsubscribe from all your current darkest dungeon mods on steam, then [go here and click subscribe to all](https://steamcommunity.com/sharedfiles/filedetails/?id=2264507822). This is only required if you wish to use all the cool nsfw mod edits
 
 # Juroest Dungeon
 150 steam mods bundled together and patched to work with eachother. It makes the game so much better. Read more about it [here.](https://www.nexusmods.com/darkestdungeon/mods/1021?tab=description)
