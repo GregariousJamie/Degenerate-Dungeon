@@ -100,7 +100,8 @@ Assuming you followed these instructions, you will have either lost your save, o
 # Actually playing the game
 The instructions for this will be different depending on which profile you're using, but in short;
 
-**Juro** - Start a new save, enable all the dlc, then click the blue cirlce button thing on the right to oepn the mods menu. Enable the juro mods and have 0 first, 1 second, etc. [It should look like this](https://cdn.discordapp.com/attachments/534476944939548672/731101261889536030/unknown.png).It is also recomented that you [listen to this song](https://www.youtube.com/watch?v=ucsa996oXVM) to maximise the chance of it working
+**Juro** - Start a new save, enable all the dlc, then click the blue cirlce button thing on the right to oepn the mods menu. Enable the juro mods and have 0 first, 1 second, etc. [It should look like this](https://cdn.discordapp.com/attachments/534476944939548672/731101261889536030/unknown.png). Please note that the steam mods listed in the lustiest lair profile are not to be used with it. It is also recomented that you [listen to this song](https://www.youtube.com/watch?v=ucsa996oXVM) to maximise the chance of it working
+
 
 **Lustiest Lair** - Move all the mods you subscribed to from D:\Steam\steamapps\workshop\content\262060 (or your equivilent drive), to the mod folder within the mod "put steam mods here". [It should look like this](https://cdn.discordapp.com/attachments/761126398303141888/769153018997768222/unknown.png). Then in the mods menu upon making a new game, [make sure these mods are in this exact order](https://cdn.discordapp.com/attachments/761126398303141888/769154055103578112/unknown.png). Every other mod not shown also need to be enabled but they can be in any order
 
