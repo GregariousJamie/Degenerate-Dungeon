@@ -10,50 +10,40 @@ Hey losers, welcome to this readme for my super cool and epic Wabbajack modlist 
 
     
 # INSTALLATION INSTRUCTIONS
-## REMEMBER TO HAVE EVERY DLC INSTALLED, BUT ENABLE EVERY DLC OTHER THAN BUTCHERS CIRCUS IF YOURE USING THE JURO PROFILE
-If you don't the list just straight up won't work. Also, having butchers circus and juro enabled will cause it to explode, so don't do that
-
-Note: For the love of all that is holy do not disable the dlc through steam. Don't. If you do i can and will beat your ass. [If you would like a demonstration of what this will look like observe this informative video](https://cdn.discordapp.com/attachments/650401195411636224/757185839527624744/image0.gif)
 # SHOVE THE CONTENTS OF 'GAME FOLDER FILES' INTO YOUR DARKEST DUNGEON DIRECTORY
 You know, like you'd do for skyrim and fallout
 
 # The Steam Workshop
-Unsubscribe from all your current darkest dungeon mods on steam, then [go here and click subscribe to all](https://steamcommunity.com/sharedfiles/filedetails/?id=2264507822). This is only required if you wish to use all the cool nsfw mod edits
+Ok so like, there are a surprising amount of good mods on steam, so heres some mods that go well with the list. Go get em tiger [go here and click subscribe to all](https://steamcommunity.com/sharedfiles/filedetails/?id=2264507822).
 
-# Juroest Dungeon
-150 steam mods bundled together and patched to work with eachother. It makes the game so much better. Read more about it [here.](https://www.nexusmods.com/darkestdungeon/mods/1021?tab=description)
-
-# Making your heroes even more OP
-The juroest dungeon mod makes it so that your heroes skills are buffed by quite a bit, but because i'm a chad i edited every single hero to be able to use all 7 skills at once. All you need to do is actually buy them from the ability shop and bam, they work. If for some reason you don't like this feature, just disable the mod that does it
+# Making the list less painful
+In order to make stuff cooler, i have made it so that all the classes can use all 7 skills at once. Also journal pages autosave and you have 36 inventory slots. You're welcome
 
 # The Actual Modlist
 
-Up in the profile list, you will see an option for 3 versions of the game, which are Juro and Lustiest Lair
+Up in the profile list, you will see an option for the 2 versions of the game, which are Lustiest Lair and "normal"
 
-## Juro
-Reccomended version of the modlist, uses Juroest dungeon and has an assload of NSFW content.
+## Normal
+Your standard vanilla+ list, no massive sex overhaul, just good old fashioned boobies
 
 ## Lustiest Lair
-Same as above, but instead of juro it uses lustiest lair. No you can't use both it will make the game explode
+Same as above, but theres a sex overhaul. May god have mercy upon your soul if you use it
 
 ## New Classes
-Check the Juroest Dungeon mod [here](https://www.nexusmods.com/darkestdungeon/mods/1021?tab=description) for information about the classes it adds.
 
-Other than that, this list has all the profligates and Tifa Lockheart from [Muscarine](https://www.nexusmods.com/darkestdungeon/users/330348?tab=user+files)
+This list has all the profligates and Tifa Lockheart from [Muscarine](https://www.nexusmods.com/darkestdungeon/users/330348?tab=user+files)
 
 Also a good majority of them have been reskinned to be far more cute by [Jefuty](https://www.nexusmods.com/darkestdungeon/users/2034155?tab=user+files)
 
 Underneath the Profligates, you will notice that theres 3 versions of "Jef's MOD Hero Collection". The normal version features almost no lewdness for the profligates, and just makes them cute, the lewd version does. The hardcore edition, however, adds some kinky bdsm stuff to a few of the heroes. If that aint your thing just use Lewd.
 
-Finally, i've added 2B. My reasons are obvious.
-
 ## Town People Skins
 
 In this section are reskins for all the town npcs, created by [NIUR](https://www.nexusmods.com/darkestdungeon/users/64319641?tab=user+files)
 
-All of them are epic and have been installed in two flavours: Normal and Lewd. Theres also usually a third version of all of these featuring **TENTACLE SEX** but i decided not to install em because they werent very immersive. You can do that yourself.
+All of them are epic and have been installed in two flavours: Normal and Lewd.
 
-Theres also a Maid version of the stagecoach npc thats enabled by default, as well as the normal one. The reason for this being that the maid version is adorable. If you would rather switch to regular, just disable it and enable he normal version.
+Theres also a version made by [Dan](https://www.loverslab.com/profile/1399769-dan-_/) underneath all of those which is a combination of multiple townspeople replacers. If you feel like its a bit much, simply disable it so that the above work instead.
 
 ## Minor skins
 
@@ -96,14 +86,6 @@ Say what you will, but i find losing heroes really lame. Hence why i've included
 6. Save and exit
 
 Assuming you followed these instructions, you will have either lost your save, or have your heroes back.
-
-# Actually playing the game
-The instructions for this will be different depending on which profile you're using, but in short;
-
-**Juro** - Start a new save, enable all the dlc, then click the blue cirlce button thing on the right to oepn the mods menu. Enable the juro mods and have 0 first, 1 second, etc. [It should look like this](https://cdn.discordapp.com/attachments/534476944939548672/731101261889536030/unknown.png). Please note that the steam mods listed in the lustiest lair profile are not to be used with it. It is also recomented that you [listen to this song](https://www.youtube.com/watch?v=ucsa996oXVM) to maximise the chance of it working
-
-
-**Lustiest Lair** - Move all the mods you subscribed to from D:\Steam\steamapps\workshop\content\262060 (or your equivilent drive), to the mod folder within the mod "put steam mods here". [It should look like this](https://cdn.discordapp.com/attachments/761126398303141888/769153018997768222/unknown.png). Then in the mods menu upon making a new game, [make sure these mods are in this exact order](https://cdn.discordapp.com/attachments/761126398303141888/769154055103578112/unknown.png). Every other mod not shown also need to be enabled but they can be in any order
 
 # It crashed help
 Ok so uhhhh, im just gonna list some things that seem to fix crashing when trying to start a new game. More will be added when people crash and complain to me
