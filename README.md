@@ -13,7 +13,7 @@ Hey losers, welcome to this readme for my super cool and epic Wabbajack modlist 
 You know, like you'd do for skyrim and fallout
 
 # The Steam Workshop
-Ok so like, there are a surprising amount of good mods on steam, so heres some mods that go well with the list. Go get em tiger [go here and click subscribe to all](https://steamcommunity.com/sharedfiles/filedetails/?id=2264507822).
+Ok so like, there are a surprising amount of good mods on steam, so heres some mods that go well with the list. [Go get em tiger](https://steamcommunity.com/sharedfiles/filedetails/?id=2264507822).
 
 # Making the list less painful
 In order to make stuff cooler, i have made it so that all the classes can use all 7 skills at once. Also journal pages autosave and you have 36 inventory slots. You're welcome
