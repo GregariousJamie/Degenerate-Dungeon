@@ -2,7 +2,6 @@
 Hey losers, welcome to this readme for my super cool and epic Wabbajack modlist for darkest dungeon! Please be aware that this modlist has breasts and pee pee, and is not intended for users under the age of 100. With that being said, lets get started.
 - [INSTALLATION INSTRUCTIONS](#INSTALLATION-INSTRUCTIONS)
   - [The steam workshop](#The-Steam-Workshop)
-  - [Juroest Dungeon](#Juroest-Dungeon)
   - [Making your heroes even more OP](#Making-your-heroes-even-more-OP)
   - [The actual modlist](#The-Actual-Modlist)
   - [Actually playing the game](#Actually-playing-the-game)
@@ -73,7 +72,7 @@ Due to the way Xelswords skins work, you cannot use them and another one for the
 
 https://www.nexusmods.com/darkestdungeon/mods/931
 
-Ok so, this ones a bit of a doozie. Essentially its a massive overhaul to the entire game to make it far more lewd, by way of new bosses, changed ability descriptions, new lewd curios, etc. Only problem is that kinda conflicts with some of the list (AND ESPECIALLY WITH JURO). That being said, the profile set up for it is pretty damn good
+Ok so, this ones a bit of a doozie. Essentially its a massive overhaul to the entire game to make it far more lewd, by way of new bosses, changed ability descriptions, new lewd curios, etc. Only problem is that its like, way too horny (and sometimes a bit buggy). Use it at your own risk
 
 ## Save editor
 
@@ -91,8 +90,6 @@ Assuming you followed these instructions, you will have either lost your save, o
 Ok so uhhhh, im just gonna list some things that seem to fix crashing when trying to start a new game. More will be added when people crash and complain to me
 
 Switching profiles in the top left
-
-Making double triple sure that those juro mods (plus the brigand/warren replacers) are the only things enabled
 
 Making sure you actually have the musketeer dlc "bought" (its free) on steam and installed
 
