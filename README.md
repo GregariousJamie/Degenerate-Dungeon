@@ -13,6 +13,8 @@ Hey losers, welcome to this readme for my super cool and epic Wabbajack modlist 
 They're good dlcs tho, so its totally worth it
 # SHOVE THE CONTENTS OF 'GAME FOLDER FILES' INTO YOUR DARKEST DUNGEON DIRECTORY
 You know, like you'd do for skyrim and fallout
+# LAUNCH THE GAME THROUGH MOD ORGANISER ONLY
+Doing otherwise will cause the mods to not work, and you to become infertile
 
 # The Steam Workshop
 Ok so like, there are a surprising amount of good mods on steam, so heres some mods that go well with the list. [Go get em tiger](https://steamcommunity.com/sharedfiles/filedetails/?id=2264507822).
