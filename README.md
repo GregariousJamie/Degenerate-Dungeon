@@ -9,6 +9,8 @@ Hey losers, welcome to this readme for my super cool and epic Wabbajack modlist 
 
     
 # INSTALLATION INSTRUCTIONS
+# MAKE SURE YOU HAVE ALL THE DLC FOR THE GAME BOUGHT AND INSTALLED
+and don't go trying to pirate it, shit won't work uwu
 # SHOVE THE CONTENTS OF 'GAME FOLDER FILES' INTO YOUR DARKEST DUNGEON DIRECTORY
 You know, like you'd do for skyrim and fallout
 
