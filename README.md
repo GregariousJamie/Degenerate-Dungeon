@@ -15,22 +15,15 @@ They're good dlcs tho, so its totally worth it
 You know, like you'd do for skyrim and fallout
 # LAUNCH THE GAME THROUGH MOD ORGANISER ONLY
 Doing otherwise will cause the mods to not work, and you to become infertile
+# UPON CREATING A NEW GAME, ENABLE THE LUSTIEST LAIR MOD ON THE NEW GAME (if you want to that is)
+You can also enable sexy fallen heroes if you want to be kicked directly in the nuts
+
 
 # The Steam Workshop
 Ok so like, there are a surprising amount of good mods on steam, so heres some mods that go well with the list. [Go get em tiger](https://steamcommunity.com/sharedfiles/filedetails/?id=2264507822).
 
 # Making the list less painful
 In order to make stuff cooler, i have made it so that all the classes can use all 7 skills at once. Also journal pages autosave and you have 36 inventory slots. You're welcome
-
-# The Actual Modlist
-
-Up in the profile list, you will see an option for the 2 versions of the game, which are Lustiest Lair and "normal"
-
-## Normal
-Your standard vanilla+ list, no massive sex overhaul, just good old fashioned boobies
-
-## Lustiest Lair
-Same as above, but theres a sex overhaul. May god have mercy upon your soul if you use it
 
 ## New Classes
 
@@ -93,13 +86,11 @@ Assuming you followed these instructions, you will have either lost your save, o
 # It crashed help
 Ok so uhhhh, im just gonna list some things that seem to fix crashing when trying to start a new game. More will be added when people crash and complain to me
 
-Switching profiles in the top left
-
 Making sure you actually have the musketeer dlc "bought" (its free) on steam and installed
 
-Listening to the song mentioned above
+Making sure you have the circus dlc enabled and installed
 
-Complimenting me on discord about how awesome i am
+Listening to the song mentioned above
 
 
 # UwU
