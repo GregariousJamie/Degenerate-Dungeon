@@ -42,6 +42,7 @@ In order to make stuff more fun, i have made it so that all the classes can use 
 ## Skins (and the fantastic artists behind them)
 
 The majority of this list is just texture replacers for npcs, heroes, and monsters. I'll list the notable artists below
+
 [NIUR](https://www.nexusmods.com/darkestdungeon/users/64319641?tab=user+files) has created **tons** of replacers for just about every hero and town npc. 
 
 [AlcorRadiance](https://www.nexusmods.com/darkestdungeon/users/91003303?tab=user+files) has made skins replacing most inventory icons such as the gems, busts, portraits and the map.
