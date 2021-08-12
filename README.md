@@ -55,6 +55,8 @@ The majority of this list is just texture replacers for npcs, heroes, and monste
 
 [Jefuty](https://www.nexusmods.com/darkestdungeon/users/2034155?tab=user+files) has made a whole bunch of replacers for npcs, background objects, monsters, and heroes
 
+Important note: I have included several alternate versions of mods with varying levels of lewdness, or thick cocks. These can be switched between easily by disabling and enabling mods.
+
 ## Lustiest Lair
 
 https://www.nexusmods.com/darkestdungeon/mods/931
