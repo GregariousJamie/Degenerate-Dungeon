@@ -1,75 +1,58 @@
 # Degenerate-Dungeon
-Hey losers, welcome to this readme for my super cool and epic Wabbajack modlist for darkest dungeon! Please be aware that this modlist has breasts and pee pee, and is not intended for users under the age of 100. With that being said, lets get started.
-- [INSTALLATION INSTRUCTIONS](#INSTALLATION-INSTRUCTIONS)
-  - [The steam workshop](#The-Steam-Workshop)
-  - [Making your heroes even more OP](#Making-your-heroes-even-more-OP)
-  - [The actual modlist](#The-Actual-Modlist)
-  - [Actually playing the game](#Actually-playing-the-game)
-  - [It crashed help](#It-Crashed-Help)
-
+Hey redditors, you're *probably* seeing this because you've started downloading and installing my modlist (good on you!). That being said, this list does need a little bit of configuration on your part to work properly, so read on please. (Also, be sure to ping me if theres any issues with this list. I am the only mod author who is ok with this for some reason)
     
-# INSTALLATION INSTRUCTIONS
-# MAKE SURE YOU HAVE ALL THE DLC FOR THE GAME BOUGHT AND INSTALLED
-They're good dlcs tho, so its totally worth it
-# SHOVE THE CONTENTS OF 'GAME FOLDER FILES' INTO YOUR DARKEST DUNGEON DIRECTORY
-You know, like you'd do for skyrim and fallout
-# LAUNCH THE GAME THROUGH MOD ORGANISER ONLY
-Doing otherwise will cause the mods to not work, and you to become infertile
-# UPON CREATING A NEW GAME, ENABLE THE LUSTIEST LAIR MOD ON THE NEW GAME (if you want to that is)
-You can also enable sexy fallen heroes if you want to be kicked directly in the nuts
+# Installation
+Gonna make this bit huge for a reason:
+## MAKE SURE YOU HAVE **ALL** THE OFFICAL DLC (Yes, even butchers circus)
+While this list will probably work without them, certain optional mods (such as lustiest lair or the fallen heroes mod) likely won't function correctly
+Other than that, installation is the same as any other list, just move the contents of game folder files to your darkest dungeon directory, and launch the game through the mod organiser.exe located in the installation directory.
 
+# Optional post installation mods
+## Loverslab
+Due to a combination of my awful australian internet, and loverslabs servers not being the best, i am genuinely unable to actually compile loverslab mods in this list, meaning that if you want some additional great skins, you'll have to add them manually. Below are links to Dan_'s **many** mods for DD, im sure you will find something you'll love. I recomend the replacers for townspeople, additional skins for heroes, and the Sexy Fallen Heroes mod. (Please note that i am not responsible for any changes you make to the list, blah blah blah etc, you get the drill. That being said, most these are just texture mods so nothing should go too badly.)  
 
-# The Steam Workshop
-Ok so like, there are a surprising amount of good mods on steam, so heres some mods that go well with the list. [Go get em tiger](https://steamcommunity.com/sharedfiles/filedetails/?id=2264507822).
+https://www.loverslab.com/files/file/17326-darkest-dungeons-downloadable-files-from-dans-collection/
+https://www.loverslab.com/topic/146763-collection-of-mods-for-darkest-dungeons/
 
-# Making the list less painful
-In order to make stuff cooler, i have made it so that all the classes can use all 7 skills at once. Also journal pages autosave and you have 36 inventory slots. You're welcome
+## The Steam Workshop
+There are a **ton** of great nsfw mods (and actual content additions) on steam, and i made a somewhat ok complation of them a long time ago, but i reccomend you go find stuff on your own as well. [The compilation in question](https://steamcommunity.com/sharedfiles/filedetails/?id=2264507822).
+Keep in mind that these **will** overwrite the mods in mod organiser unless you move the mod folders into mod organisers 'mods' folder. This will work fine for simple texture replacers, but dlc sized mods may require a bit of file structure magic.
 
-## New Classes
+If you add a mod that adds additional heroes for example, I would reccomend that you make the following folder structure:
 
-This list has all the profligates and Tifa Lockheart from [Muscarine](https://www.nexusmods.com/darkestdungeon/users/330348?tab=user+files)
+`<your degenerate dungeon installation>/mods/<Name of mod>/mods/<the actual mod>`.
 
-Also a good majority of them have been reskinned to be far more cute by [Jefuty](https://www.nexusmods.com/darkestdungeon/users/2034155?tab=user+files)
+(See how the Lustiest lair mod is structured for an example).
 
-Underneath the Profligates, you will notice that theres 3 versions of "Jef's MOD Hero Collection". The normal version features almost no lewdness for the profligates, and just makes them cute, the lewd version does. The hardcore edition, however, adds some kinky bdsm stuff to a few of the heroes. If that aint your thing just use Lewd.
+Steam mods need to be manually enabled upon making a new save. You're on your own when it comes to sorting piorities on them but they should be fine.
 
-## Town People Skins
+Additionally, Dan_ has made quite a number of texture replaces for steam mods. If you use these then i recomend that you either just replace the original mod files with those, *or* remake the file structure with the replacer files in it. Either will work, but the first method is much less clean.
 
-In this section are reskins for all the town npcs, created by [NIUR](https://www.nexusmods.com/darkestdungeon/users/64319641?tab=user+files)
+# Other important information
 
-All of them are epic and have been installed in two flavours: Normal and Lewd.
+## Game unhardening
+In order to make stuff more fun, i have made it so that all the classes can use all 7 skills at once (and let me tell you, that was way more complicated than you would think). Also journal pages autosave (meaning that you just have to read them once, and then you can throw them away to save inventory space) and you have 36 inventory slots (The implentation of this *is* a bit buggy in regards to right clicking to use items on objects. If in doubt just drag and drop items into the interaction boxes).
 
-Theres also a version made by [Dan](https://www.loverslab.com/profile/1399769-dan-_/) underneath all of those which is a combination of multiple townspeople replacers. If you feel like its a bit much, simply disable it so that the above work instead.
+## Skins (and the fantastic artists behind them)
 
-## Minor skins
+The majority of this list is just texture replacers for npcs, heroes, and monsters. I'll list the notable artists below
+[NIUR](https://www.nexusmods.com/darkestdungeon/users/64319641?tab=user+files) has created **tons** of replacers for just about every hero and town npc. 
 
-Most of these were created by [AlcorRadiance](https://www.nexusmods.com/darkestdungeon/users/91003303?tab=user+files)
+[AlcorRadiance](https://www.nexusmods.com/darkestdungeon/users/91003303?tab=user+files) has made skins replacing most inventory icons such as the gems, busts, portraits and the map.
 
-All of these can be reinstalled to your tastes rather easily, by right clicking them and clicking reinstall.
+[StalinTheStalin](https://www.nexusmods.com/darkestdungeon/users/4913083?tab=user+files&BH=0) has created most of the replacers for enemies (and they are **adorable!**). 
 
-There is also a replacer for the skeleton fella in the bottom right and left of your screen in dungeons, with a breast version and a christian and pure non breast version. Both can be customised as you wish
+[AIRHOC](https://www.nexusmods.com/darkestdungeon/users/91445153?tab=user+files) has replaced the skeletons in the game with anime girls. They're cute.
 
-## Monster Skins
+[Xelsword](https://www.nexusmods.com/darkestdungeon/users/79892533?tab=user+files) has also made replacers for heroes, but their ones are much more complicated as they use custom skeletons (which also means you can't use other skins with them).
 
-Most of these were created by [StalinTheStalin](https://www.nexusmods.com/darkestdungeon/users/4913083?tab=user+files&BH=0)
-
-Only thing of note is that the crystalline mod has a version with and without futa. Choose what you want, it only effects two enemies anyway.
-
-Theres also a replacer for the skeleton enemies as well made by [AIRHOC](https://www.nexusmods.com/darkestdungeon/users/91445153?tab=user+files). Personally i find them adorable, hence their inclusion. [ALSO ONE OF THE REPLACED SKELETONS IS SANS](https://cdn.discordapp.com/attachments/650401195411636224/729154961820090429/SPOILER_skeleton_captain.sprite.attack_mace.png)
-
-## Hero Skins
-
-These have been created by [NIUR](https://www.nexusmods.com/darkestdungeon/users/64319641?tab=user+files), [Xelsword](https://www.nexusmods.com/darkestdungeon/users/79892533?tab=user+files), and [Jefuty](https://www.nexusmods.com/darkestdungeon/users/2034155?tab=user+files)
-
-**IMPORTANT**
-Due to the way Xelswords skins work, you cannot use them and another one for the same hero at the same time, or else the skin will literally explode
-
+[Jefuty](https://www.nexusmods.com/darkestdungeon/users/2034155?tab=user+files) has made a whole bunch of replacers for npcs, background objects, monsters, and heroes
 
 ## Lustiest Lair
 
 https://www.nexusmods.com/darkestdungeon/mods/931
 
-Ok so, this ones a bit of a doozie. Essentially its a massive overhaul to the entire game to make it far more lewd, by way of new bosses, changed ability descriptions, new lewd curios, etc. Only problem is that its like, way too horny (and sometimes a bit buggy). Use it at your own risk
+Ok so, this ones a bit of a doozie. Essentially its a massive overhaul to the entire game to make it far more lewd, by way of new bosses, changed ability descriptions, new lewd curios, etc. Its not for everyone but can be enabled when making a new save. (Just don't remove it on a save that has already been using it, horrific things **will** ocour).
 
 ## Save editor
 
@@ -82,16 +65,3 @@ Say what you will, but i find losing heroes really lame. Hence why i've included
 6. Save and exit
 
 Assuming you followed these instructions, you will have either lost your save, or have your heroes back.
-
-# It crashed help
-Ok so uhhhh, im just gonna list some things that seem to fix crashing when trying to start a new game. More will be added when people crash and complain to me
-
-Making sure you actually have the musketeer dlc "bought" (its free) on steam and installed
-
-Making sure you have the circus dlc enabled and installed
-
-Listening to the song mentioned above
-
-
-# UwU
-UwU
