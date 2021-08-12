@@ -11,7 +11,7 @@ Other than that, installation is the same as any other list, just move the conte
 ## Loverslab
 Due to a combination of my awful australian internet, and loverslabs servers not being the best, i am genuinely unable to actually compile loverslab mods in this list, meaning that if you want some additional great skins, you'll have to add them manually.
 
-Below are links to Dan_'s **many** mods for DD, in which i'm sure you will find something you'll love. I recomend the replacers for townspeople, additional skins for heroes, and the Sexy Fallen Heroes mod. 
+Below are links to Dan_'s **many** mods for DD, in which i'm sure you will find something you'll love. I recomend the replacers for townspeople, additional skins for heroes, and the Sexy Fallen Heroes mod (just be aware that it is painfully difficult). 
 
 (Please note that i am not responsible for any changes you make to the list, blah blah blah etc, you get the drill. That being said, most these are just texture mods so nothing should go too badly.)  
 
