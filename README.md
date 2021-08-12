@@ -20,6 +20,7 @@ https://www.loverslab.com/topic/146763-collection-of-mods-for-darkest-dungeons/
 
 ## The Steam Workshop
 There are a **ton** of great nsfw mods (and actual content additions) on steam, and i made a somewhat ok complation of them a long time ago, but i reccomend you go find stuff on your own as well. [The compilation in question](https://steamcommunity.com/sharedfiles/filedetails/?id=2264507822).
+
 Keep in mind that these **will** overwrite the mods in mod organiser unless you move the mod folders into mod organisers 'mods' folder. This will work fine for simple texture replacers, but dlc sized mods may require a bit of file structure magic.
 
 If you add a mod that adds additional heroes for example, I would reccomend that you make the following folder structure:
