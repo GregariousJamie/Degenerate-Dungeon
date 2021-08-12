@@ -56,7 +56,7 @@ Ok so, this ones a bit of a doozie. Essentially its a massive overhaul to the en
 
 ## Save editor
 
-Say what you will, but i find losing heroes really lame. Hence why i've included a nifty little save editor. Below are instructions on how to use it.
+Say what you will, but i find losing heroes to random bullshit unpleasent. Hence why i've included a nifty little save editor. Below are instructions on how to use it.
 1. Back up your saves for the love of god
 2. Open the save editor and go to roster
 3. Right click, collapse all folds, then expand until you make it to the heroes section
