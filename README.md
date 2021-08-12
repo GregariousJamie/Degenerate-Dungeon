@@ -5,6 +5,7 @@ Hey redditors, you're *probably* seeing this because you've started downloading 
 Gonna make this bit huge for a reason:
 ## MAKE SURE YOU HAVE **ALL** THE OFFICAL DLC (Yes, even butchers circus)
 While this list will probably work without them, certain optional mods (such as lustiest lair or the fallen heroes mod) likely won't function correctly
+
 Other than that, installation is the same as any other list, just move the contents of game folder files to your darkest dungeon directory, and launch the game through the mod organiser.exe located in the installation directory.
 
 # Optional post installation mods
