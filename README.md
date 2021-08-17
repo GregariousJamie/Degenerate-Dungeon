@@ -3,9 +3,13 @@ Hey redditors, you're *probably* seeing this because you've started downloading 
     
 # Installation
 Adjust the Installation Location to a directory located on the root directory of one of your drives
+
 For example, this might be "C:\Degenerate", "D:\Degenerate", etc.
+
 Ensure the Download Location is within that directory
+
 Click the Go/Begin button
+
 Wait for Wabbajack to finish
 
 Gonna make this bit huge for a reason:
