@@ -20,6 +20,8 @@ Other than that, installation is the same as any other list, just move the conte
 
 Also, because this happened once, dont disable the crimson court dlc. yes it warns you, no you shouldnt disable it.
 
+Also, to enable the steam mods (and lustiest lair) that you've transpalanted into the game (read below sections), you must click the blue icon after creating a new save, then enable the mods. If said mods require some form of hierachy to function correctly, they can be dragged and dropped into any order.
+
 # Optional post installation mods
 ## Loverslab
 Due to a combination of my awful australian internet, and loverslabs servers not being the best, i am genuinely unable to actually compile loverslab mods in this list, meaning that if you want some additional great skins, you'll have to add them manually. Please direct any and all complaints to our prime minister
