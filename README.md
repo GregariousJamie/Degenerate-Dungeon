@@ -12,7 +12,7 @@ Click the Go/Begin button
 
 Wait for Wabbajack to finish
 
-Gonna make this bit huge for a reason:
+**Gonna make this bit huge for a reason:**
 ## MAKE SURE YOU HAVE **ALL** THE OFFICAL DLC ENABLED(Yes, even butchers circus)
 While this list will probably work without them, certain optional mods (such as lustiest lair or the fallen heroes mod) likely won't function correctly
 
