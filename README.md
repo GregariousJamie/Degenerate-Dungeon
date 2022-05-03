@@ -2,6 +2,8 @@
 Hey redditors, you're *probably* seeing this because you've started downloading and installing my modlist (good on you!). That being said, this list does need a little bit of configuration on your part to work properly, so read on please. (Also, be sure to ping me if theres any issues with this list. I am the only mod author who is ok with this for some reason)
     
 # Installation
+First of all, try not to be horny when actually installing this list, otherwise you may not actually read the installation instructions. It keeps happening. Stop being horny
+
 Adjust the Installation Location to a directory located on the root directory of one of your drives
 
 For example, this might be "C:\Degenerate", "D:\Degenerate", etc.
@@ -16,7 +18,7 @@ Wait for Wabbajack to finish
 ## MAKE SURE YOU HAVE **ALL** THE OFFICAL DLC ENABLED(Yes, even butchers circus)
 While this list will probably work without them, certain optional mods (such as lustiest lair or the fallen heroes mod) likely won't function correctly
 
-Other than that, installation is the same as any other list, just move the contents of game folder files to your darkest dungeon directory, and launch the game through the mod organiser.exe located in the installation directory.
+Other than that, installation is the same as any other list, just move the contents of **game folder files** to your darkest dungeon directory, and launch the game through the mod organiser.exe located in the installation directory. **IF YOU DON'T DO THIS THEN THE GAME WON'T WORK**
 
 Also, because this happened once, dont disable the crimson court dlc. yes it warns you, no you shouldnt disable it.
 
