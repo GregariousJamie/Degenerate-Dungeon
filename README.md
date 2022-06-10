@@ -18,7 +18,7 @@ Wait for Wabbajack to finish
 ## MAKE SURE YOU HAVE **ALL** THE OFFICAL DLC ENABLED(Yes, even butchers circus)
 While this list will probably work without them, certain optional mods (such as lustiest lair or the fallen heroes mod) likely won't function correctly
 
-Other than that, installation is the same as any other list, just move the contents of **game folder files** to your darkest dungeon directory, and launch the game through the mod organiser.exe located in the installation directory. **IF YOU DON'T DO THIS THEN THE GAME WON'T WORK**
+Other than that, installation is the same as any other list, just move the contents of **<modlistname>/game folder files** to your darkest dungeon installation folder, and launch the game through the mod organiser.exe located in the modlists installation directory. **IF YOU DON'T DO THIS THEN THE GAME WON'T WORK**
 
 Also, because this happened once, dont disable the crimson court dlc. yes it warns you, no you shouldnt disable it.
 
