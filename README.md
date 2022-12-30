@@ -1,6 +1,8 @@
 # Degenerate-Dungeon
 Hey gamers, you're *probably* seeing this because you've started downloading and installing my modlist (good on you!). That being said, this list does need a little bit of configuration on your part to work properly, so read on please. (Also, be sure to ping me if theres any issues with this list. I am the only mod author who is ok with this for some reason)
-    
+
+If by the end of this experience you for some reason want to shove money down my throat, [my mouth is right here](https://www.paypal.com/donate/?business=EBWC5CYKDQK3E&no_recurring=0&item_name=I+do+stuff&currency_code=AUD)
+
 # Installation
 First of all, try not to be horny when actually installing this list, otherwise you may not actually read the installation instructions. It keeps happening. Stop being horny
 
