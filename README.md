@@ -1,5 +1,5 @@
 # Degenerate-Dungeon
-Hey redditors, you're *probably* seeing this because you've started downloading and installing my modlist (good on you!). That being said, this list does need a little bit of configuration on your part to work properly, so read on please. (Also, be sure to ping me if theres any issues with this list. I am the only mod author who is ok with this for some reason)
+Hey gamers, you're *probably* seeing this because you've started downloading and installing my modlist (good on you!). That being said, this list does need a little bit of configuration on your part to work properly, so read on please. (Also, be sure to ping me if theres any issues with this list. I am the only mod author who is ok with this for some reason)
     
 # Installation
 First of all, try not to be horny when actually installing this list, otherwise you may not actually read the installation instructions. It keeps happening. Stop being horny
@@ -9,6 +9,8 @@ Adjust the Installation Location to a directory located on the root directory of
 For example, this might be "C:\Degenerate", "D:\Degenerate", etc.
 
 Ensure the Download Location is within that directory
+
+Go [here](https://www.loverslab.com/topic/146763-collection-of-mods-for-darkest-dungeons/) and download the Hood, Offering, Fawn, Shrapnel, Hollow, and Tusk Palettes mods, and put them where wabbajack would download files to. Its way easier this way, trust me
 
 Click the Go/Begin button
 
