@@ -12,8 +12,6 @@ For example, this might be "C:\Degenerate", "D:\Degenerate", etc.
 
 Ensure the Download Location is within that directory
 
-Go [here](https://www.loverslab.com/topic/146763-collection-of-mods-for-darkest-dungeons/) and download the Hood, Offering, Fawn, Shrapnel, Hollow, and Tusk Palettes mods, and put them where wabbajack would download files to. Its way easier this way, trust me
-
 Click the Go/Begin button
 
 Wait for Wabbajack to finish
