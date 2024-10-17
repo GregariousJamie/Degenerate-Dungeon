@@ -3,6 +3,8 @@ Hey gamers, you're *probably* seeing this because you've started downloading and
 
 If by the end of this experience you for some reason want to shove money down my throat, [my mouth is right here](https://www.paypal.com/donate/?business=EBWC5CYKDQK3E&no_recurring=0&item_name=I+do+stuff&currency_code=AUD)
 
+Also also, if you want support, go here: https://discord.gg/iAmModlist ! Be sure to ping me and all that, include a cat picture too or i will cut off your balls
+
 # Installation
 First of all, try not to be horny when actually installing this list, otherwise you may not actually read the installation instructions. It keeps happening. Stop being horny
 
